@@ -1,0 +1,29 @@
+(english version below)
+
+Zum Kompiliere der joelixblas Bibliothek ruft man das Programm 'make'
+im Projektordner (= der Ordner in dem diese Datei ist) auf.
+
+
+ $ make
+
+
+Danach sollten die Ordner ./build und ./lib erstellt worden sein.
+Die kompilierte Bibliothek befindet sich im Ordner ./lib.
+
+Die für den User notwendigen Headerdateien befinden sich im Unterordner
+joelixblas/include.
+
+
+(english version)
+
+To compile the joelixblas library simply call 'make' from within the 
+project directory (= the directory in which this file is).
+
+
+$ make
+
+
+Afterwards there should be the new folders ./build and ./lib,
+where ./lib contains the compiled library.
+
+The headerfiles that are necessary to include are in joelixblas/include.
