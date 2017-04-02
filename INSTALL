@@ -13,6 +13,7 @@ Die kompilierte Bibliothek befindet sich im Ordner ./lib.
 Die für den User notwendigen Headerdateien befinden sich im Unterordner
 joelixblas/include.
 
+Im Ordner ./doc befindet sich eine Dokumentation des Userinterface.
 
 (english version)
 
@@ -27,3 +28,5 @@ Afterwards there should be the new folders ./build and ./lib,
 where ./lib contains the compiled library.
 
 The headerfiles that are necessary to include are in joelixblas/include.
+
+In the folder ./doc is a reference manual.
