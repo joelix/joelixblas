@@ -31,8 +31,6 @@
   festgelegt. */ 
 
 
-/* TODO: Ergebniss nach links */
-
 /** Der Datentyp fuer Vektoren. */
 typedef struct Joelix_Vektor_t * Joelix_Vektor;
 
